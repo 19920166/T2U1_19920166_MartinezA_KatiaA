@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ODBC">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ODBC" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
